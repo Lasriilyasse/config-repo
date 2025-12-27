@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: reservation-ms
+
+# Business rules
+reservation:
+  max-tickets-per-user: 4
