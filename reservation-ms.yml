@@ -4,4 +4,4 @@ spring:
 
 # Business rules
 reservation:
-  max-tickets-per-user: 5
+  max-tickets-per-user: 4
